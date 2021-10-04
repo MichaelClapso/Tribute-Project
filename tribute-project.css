@@ -39,12 +39,16 @@ ul {
     line-height: 1.6;
 }
 
-#tribute-info {
+#additional-info {
     text-align: center;
 }
 
-#additional-info {
-    text-align: center;
+li {
+    margin: 16px 0;
+}
+
+#ending {
+    margin: 16px 0;
 }
 
 
